@@ -1,2 +1,2 @@
 # gitHub  
-![github](github.png)
+![github](gitHub.png)
