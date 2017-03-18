@@ -1,1 +1,1 @@
-![exe-git](exercice-git)
+![exe-git](exercice-git3.png)
